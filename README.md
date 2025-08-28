@@ -20,7 +20,7 @@ A conversational data analysis application that allows users to interact with he
 
 1. **Clone the repository**
    ```bash
-   git clone <>
+   git clone https://github.com/AhmedRehaan1/PandasAI-agent---chat-with-CSV.git
    cd heart-disease-chatbot
    ```
 
